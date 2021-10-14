@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+sitemap: http://dncface.netlify.app/sitemap.xml
