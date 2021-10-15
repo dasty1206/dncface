@@ -1,2 +1,3 @@
-User-agent: *Allow:/
+User-agent: *
+Allow:/
 Sitemap: https://dncface.netlify.app/sitemap.xml
